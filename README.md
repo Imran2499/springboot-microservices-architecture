@@ -7,6 +7,7 @@ This project demonstrates a **production-ready microservices architecture** buil
 
 It showcases key patterns used in modern distributed systems such as **service discovery, API gateway routing, centralized configuration, and fault tolerance**.
 
+
 ---
 
 ## 🧩 Architecture Components
